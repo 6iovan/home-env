@@ -1,4 +1,3 @@
-# dev-env
 
 It is not only a [dotfiles][dotfiles] project, but also a complete development environment on the OS that including dotfiles, packages, programs, and user environments.
 
